@@ -1,6 +1,6 @@
 # energy_consumption_prediction
 
-This project is inspired by my diploma thesis titled "Causality Relationships and Prediction of Energy Consumption with Multivariate Machine Learning Models"
+This project is inspired by my diploma thesis titled "Causality Relationships and Prediction of Energy Consumption with Multivariate Machine Learning Models".
 The purpose of this thesis is educational and  is focused on the examination of the effect of the selection of parameters based on causality relationships in the prediction of electricity demand. In this repository, parts of the overall work are uploaded, so as to demonstrate the main pipeline of the above research. Specifically, the data preperation and visualization is covered. Additionally, the process of the creation of the linear and non-linear models is presented.
 
 First of all, the univariate linear and non-linear models will be implemented. The only timeseries that will be used for the construction and training of these models is the energy demand. Afterwards,two more models for each of them will be tested. In the so called "Full" model, all the available variables will be added to the models. Finally, the "Restricted" models will only use the variables that got selected by the Conditional Granger Causality Index. The process of variable selection based on the direct granger causality index is not included, but hopefully will be up soon. 
