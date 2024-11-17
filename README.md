@@ -1,4 +1,4 @@
-# energy_consumption_prediction
+# casusal_energy_demand_prediction
 
 This project is inspired by my diploma thesis titled "Causality Relationships and Prediction of Energy Consumption with Multivariate Machine Learning Models".
 The purpose of this thesis is educational and is focused on the examination of the effect of the selection of parameters based on causality relationships in the prediction of electricity demand. It should be noted that the purpose of this thesis was not to find the best model, but to examine the causal relashionships of the variables in order to build an efficient and transparent solution. In this repository, parts of the overall work are uploaded, so as to demonstrate the main pipeline of the above research. 
